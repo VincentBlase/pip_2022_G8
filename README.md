@@ -6,8 +6,8 @@ Objectif du groupe : Detecter et caractériser, à l'aide de méthode statistiqu
 
 Machine learning et statistiques :
  
-https://scikit-learn.org/stable/  -> Librairie très complète
-https://www.kaggle.com/learn/intro-to-machine-learning -> Tutoriel d'introduction
+https://scikit-learn.org/stable/  -> Librairie très complète </n>
+https://www.kaggle.com/learn/intro-to-machine-learning -> Tutoriel d'introduction </n>
 https://www.kaggle.com/learn/pandas -> Tutoriel sur la librairie pandas 
 https://www.kaggle.com/c/titanic -> Compétition sur des données du titanic, très intéréssant pour apprendre et découvrir.
 
